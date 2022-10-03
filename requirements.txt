@@ -1,0 +1,7 @@
+requests
+bs4
+csv
+langdetect
+re
+math
+Counter
